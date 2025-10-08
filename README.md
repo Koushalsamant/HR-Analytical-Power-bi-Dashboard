@@ -46,6 +46,6 @@ Develop retention strategies based on data-backed evidence.
 
 Enhance HR decision-making through real-time analytics.
 
-🏁 Conclusion
+**Conclusion**
 
 The HR Analytics Dashboard serves as a powerful analytical tool for Human Resource Management, showcasing expertise in Power BI visualization,data analytics, and business intelligence. It transforms raw HR data into actionable insights, supporting strategic workforce planning and employee retention initiatives.
